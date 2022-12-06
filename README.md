@@ -1,3 +1,2 @@
 # Celestial-Bodies-Database
-Bulding postgres Database
-Creat databsae postgres
+Building postgres Database
